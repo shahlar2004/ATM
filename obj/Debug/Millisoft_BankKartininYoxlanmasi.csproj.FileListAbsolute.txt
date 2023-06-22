@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\bin\Debug\Millisoft_BankKartininYoxlanmasi.exe.config
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\bin\Debug\Millisoft_BankKartininYoxlanmasi.exe
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\bin\Debug\Millisoft_BankKartininYoxlanmasi.pdb
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.exe
+C:\Users\user\source\repos\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.pdb
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\bin\Debug\Millisoft_BankKartininYoxlanmasi.exe.config
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\bin\Debug\Millisoft_BankKartininYoxlanmasi.exe
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\bin\Debug\Millisoft_BankKartininYoxlanmasi.pdb
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.exe
+C:\Users\user\OneDrive\CheckBankCard\Millisoft_BankKartininYoxlanmasi\obj\Debug\Millisoft_BankKartininYoxlanmasi.pdb
